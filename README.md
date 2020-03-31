@@ -1,16 +1,8 @@
-# covd_19
+# Stay Safe from Corona-virus
 
-A new Flutter project.
+A simple mobile app that provides you with important information related to coronavirus around you. Options Select Location manually or Allow the extension to get your location Get Important statistics regarding corona near the selected location on timely basis Set the update time to either 1 minute, minutes, 10 minutes, 1 hour, 3 hour, 6 hours or daily. 
+# Note 
+You are free to copy, reuse, update and learn from the code of this mobile app. This app is built for public service and also to spread awareness regarding Covid-19 Coronavirus.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Chrome Extension Link
+https://github.com/osamaishtiaq/Stay-safe-from-coronavirus
